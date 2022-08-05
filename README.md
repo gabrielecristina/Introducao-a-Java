@@ -1,4 +1,4 @@
-# Curso de Java com a Alura do Basico ao Avançado
+# Curso de Java com a Alura Basico.
 
 O Java possui dois tipos de dados que são divididos em por valor (tipos primitivos) e por referência (tipos por referência). Os tipos primitivos são boolean, byte, char, short, int, long, float e double. Os tipos por referência, são classes que especificam os tipos de objeto Strings, Arrays Primitivos e Objetos.
 
