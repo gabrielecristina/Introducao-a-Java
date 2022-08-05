@@ -1,8 +1,0 @@
-teclas de atalho ctrl + space - auto completa
-ctrl + shift + f - faz a indentação do codigo 
-
-Passaremos pelo nosso primeiro controle de fluxo, e testaremos a condicional if! Para isso, criaremos uma classe denominada "TestaCondicional", 
-com uma variável inteira idade, inicializada na mesma linha:
-
-
-
