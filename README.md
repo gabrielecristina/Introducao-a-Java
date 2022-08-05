@@ -7,6 +7,7 @@ As variáveis são posições na memória do computador que podem armazenar dado
 
 Dependendo da programação, o básico de uma declaração de variável pode ter somente um tipo, um nome e um valor.
 
-Listagem 1: Exemplo de declaração de variável
+Exemplo de declaração de variável
 
-![image](https://user-images.githubusercontent.com/54123623/183147650-4f37d409-6f17-45c3-aa7f-8a89a59e8aaf.png)
+![image](https://user-images.githubusercontent.com/54123623/183148189-71cfbb84-59bb-4550-983f-2bd8d038418b.png)
+
