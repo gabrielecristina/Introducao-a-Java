@@ -1,5 +1,5 @@
 
-# Estrutura Condicionais (IF/ELSE).
+# Estrutura Condicionais (IF/ELSE/SWITCH CASE).
 
 A estrutura condicional if/else permite ao programa avaliar uma expressão como sendo verdadeira ou falsa e, de acordo com o resultado dessa verificação, executar uma ou outra rotina.
 
@@ -25,4 +25,24 @@ Sintaxe do if/else:
 		}
 	} 
   ![image](https://user-images.githubusercontent.com/54123623/183664425-bd9f858d-2a36-4c04-8931-56cfed3e402c.png)
+  
+## SWITCH CASE
+
+O condicional switch testa o valor contido em uma variável e o compara com os valores fornecidos em cada caso, representados pela palavra reservada case. Podemos ter quantos casos forem necessários na estrutura, e quando um dos valores corresponder ao da variável de teste, o código do caso será executado.
+
+![image](https://user-images.githubusercontent.com/54123623/183676416-16f545d9-903a-4530-a318-94fecfce72c1.png)
+
+## Dicas 😎
+
+main + ctrl + espaço
+para gerar o método main
+
+ctrl + shift + f
+para formatar o código fonte
+
+sysout + ctrl + espaço
+para gerar a instrução System.out.println().
+
+
+
 
