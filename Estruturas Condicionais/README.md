@@ -19,7 +19,7 @@ Sintaxe do if/else:
 		if (idade >= 18 || acompanhado) {
     [x] Caso uma das condições sejam verdadeiras o programa irá emitir a mensagem abaixo
 			System.out.println("Seja bem vindo! ");
-     [x] Caso as duas condiçoes sejam falas o programa irá emitir a mensagem abaixo
+    [x] Caso as duas condiçoes sejam falas o programa irá emitir a mensagem abaixo
 		} else {
 			System.out.println("Menor de idade");
 		}
